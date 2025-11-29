@@ -1,0 +1,301 @@
+section {
+    max-width: 1440px;
+    text-decoration: none;
+}
+
+.shapka0 {
+    align-items: center;
+}
+
+.shapka {
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+.realmi {
+    width: 92px;
+    height: 28px;
+    margin-left: 60px;
+}
+
+.heigh {
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+    text-align: left;
+    font-size: 17px;
+}
+
+.free {
+    width: 23px;
+    height: 23px;
+    display: flex;
+    column-gap: 30px;
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+.txcent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 60px;
+    font-size: 55px;
+}
+
+.full {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.counter {
+    padding: 6px;
+    border: 1px solid #b3b3b3;
+    max-width: 135px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.counter button {
+    border: none;
+    background: none;
+}
+
+.two {
+    display: flex;
+    background-color: white;
+    max-width: 1320px;
+    padding: 30px;
+    width: 100%;
+}
+
+.txtwo {
+    display: flex;
+    display: grid;
+    margin-left: 19px;
+}
+
+.two img {
+    width: 63px;
+    height: 63px;
+}
+
+.txtwo h1 {
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.txtwo p {
+    font-size: 17px;
+}
+
+.txfreee {
+    display: flex;
+}
+
+.fon {
+    background-color: rgb(226, 226, 226);
+}
+
+.stroka1 h1 {
+    font-size: 16px;
+    padding: 27 198 27 161px;
+    color: #b3b3b3;
+}
+
+.vse {
+    background-color: rgb(255, 255, 255);
+    max-width: 1320px;
+    width: 100%;
+    margin-left: 60px;
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+.fon2 {
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
+
+.stroka2 {
+    margin-top: 40px;
+}
+
+.stroka1 {
+    padding: 30px;
+}
+
+.stroka2 h1 {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.stroka3 h1 {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.stroka3 {
+    margin-top: 40px;
+}
+
+.stroka2 img {
+    margin-top: 120px;
+    margin-left: 30px;
+}
+
+.stroka3 img {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.stroka2rp {
+    margin-top: 70px;
+}
+
+.stroka2rp h1 {
+    font-size: 21px;
+}
+
+.stroka2rp {
+    margin-top: 70px;
+}
+
+.stroka3rp {
+    margin-top: 90px;
+}
+
+.stroka3rp h1 {
+    font-size: 21px;
+}
+
+.stroka2bt {
+    margin-top: 70px;
+}
+
+.stroka3bt {
+    margin-top: 70px;
+}
+
+.stroka2te h1 {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.stroka3te h1 {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.stroka2te {
+    margin-top: 70px;
+}
+
+.stroka3te {
+    margin-top: 90px;
+}
+
+.k2 {
+    margin-left: 20px;
+}
+
+.k2 h1 {
+    font-size: 21px;
+}
+
+.k2 p {
+    font-size: 19px;
+    margin-top: 10px;
+}
+
+.realmi-ander {
+    width: 91px;
+    height: 28px;
+}
+
+.g1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3px
+}
+
+.tren {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gfhd {
+    max-width: 1440px;
+    margin-top: 60px;
+}
+
+.andegrand {
+    margin-top: 40px;
+}
+
+.gray_card {
+    max-width: 314px;
+    background-color: lightgray;
+    border-radius: 30px;
+    margin: auto;
+    height: 100px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.gray_card h1 {
+    font-size: 21px;
+    margin-top: 10px;
+}
+
+.gray_card p {
+    font-size: 16px;
+}
+
+.yavshoke {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 13px;
+    justify-content: right;
+    max-width: 1320px;
+    width: 100%;
+    margin-left: 60px;
+    margin-top: 40px;
+    column-gap: 20px;
+}
+
+.yavshoke h1 {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.yavshoke h4 {
+    font-size: 21px;
+}
+
+.yavshoke button {
+    border-radius: 0%;
+    margin-right: 140px;
+}
+
+@font-face {
+    font-family: 'SFNS Display Bold';
+    src: url('/fonts/fonts/sfns_display_bold.eot');
+    /* IE 9 Compatibility Mode */
+    src: url('/fonts/fonts/sfns_display_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('/fonts/fonts/sfns_display_bold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('/fonts/fonts/sfns_display_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('/fonts/fonts/sfns_display_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/fonts/fonts/sfns_display_bold.svg#sfns_display_bold') format('svg');
+    /* Chrome < 4, Legacy iOS */
+}

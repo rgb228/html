@@ -1,0 +1,369 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+
+/* Header Styles */
+
+header {
+    display: flex;
+    align-items: center;
+    max-width: 1920px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.realmi {
+    width: 92px;
+    height: 28px;
+    margin-left: 60px;
+}
+
+.nav-menu {
+    display: flex;
+    margin-left: 20px;
+}
+
+.heigh {
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+    text-align: left;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.free {
+    width: 23px;
+    height: 23px;
+    display: flex;
+    column-gap: 30px;
+    margin-left: auto;
+    margin-right: 150px;
+}
+
+.free img {
+    width: 23px;
+    height: 23px;
+    cursor: pointer;
+}
+
+
+/* Hero Section */
+
+.hero {
+    position: relative;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.baner {
+    position: relative;
+    width: 100%;
+}
+
+.baner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.text-baner {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translateY(-50%);
+    color: black;
+    max-width: 500px;
+}
+
+.text-baner h1 {
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.text-baner h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+
+.text-baner p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.text-baner .price {
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.text-baner .btn {
+    margin-right: 15px;
+    padding: 10px 25px;
+}
+
+.categories {
+    max-width: 1920px;
+    margin: 80px auto 0;
+}
+
+.fooofoto {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+    gap: 60px;
+    justify-items: center;
+}
+
+.fooofoto .cop {
+    text-align: center;
+    min-width: 200px;
+}
+
+.fooofoto .cop img {
+    width: 180px;
+    height: 180px;
+    margin-bottom: 15px;
+}
+
+.fooofoto .cop p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.product-series {
+    max-width: 1920px;
+    margin: 80px auto 0;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.centter h2 {
+    font-size: 55px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.centter p {
+    font-size: 30px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+.centter button {
+    padding: 10px 30px;
+}
+
+.products {
+    max-width: 1920px;
+    margin: 80px auto 0;
+    padding: 0 20px;
+}
+
+.trecontainer {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.trecontainer article {
+    text-align: center;
+    flex: 1;
+    min-width: 300px;
+    max-width: 400px;
+}
+
+.p-1 img {
+    width: 100%;
+    height: auto;
+}
+
+.p-2 img,
+.p-3 img {
+    margin-bottom: 20px;
+}
+
+.p-2 h3,
+.p-3 h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.p-2 p,
+.p-3 p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.p-2 .price,
+.p-3 .price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.senter {
+    max-width: 1920px;
+    margin: 80px auto 0;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.centter-1 h1 {
+    font-size: 55px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.centter-1 p {
+    font-size: 30px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+.centter-1 button {
+    padding: 10px 30px;
+}
+
+.ter-1 {
+    display: flex;
+    max-width: 1920px;
+    margin: 80px auto 0;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 20px;
+    flex-wrap: wrap;
+}
+
+.r-1,
+.r-2,
+.r-3 {
+    text-align: center;
+    flex: 1;
+    min-width: 300px;
+    max-width: 400px;
+}
+
+.r-1 img {
+    width: 100%;
+    height: auto;
+}
+
+.r-2 h1,
+.r-3 h1 {
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.r-2 p,
+.r-3 p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.r-2 h3,
+.r-3 h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.r-2 .btn,
+.r-3 .btn {
+    margin-top: 10px;
+    padding: 10px 25px;
+}
+
+.k1 {
+    max-width: 1920px;
+    margin: 80px auto 0;
+    padding: 0 20px;
+}
+
+.k1 .row {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.k1 .col-3 {
+    flex: 1;
+    min-width: 250px;
+}
+
+.gray_card {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    height: 100%;
+}
+
+.gray_card h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.gray_card p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+/* Footer */
+
+.k2 {
+    max-width: 1920px;
+    margin: 80px auto 0;
+    padding: 0 20px 40px;
+}
+
+.k2 .row {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.k2 .col-3 {
+    flex: 1;
+    min-width: 250px;
+}
+
+.k2 .col-3 h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.k2 .col-3 p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.k2 .col-3 img:not(.realmi-ander) {
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 24px;
+    height: 24px;
+}
+
+.realmi-ander {
+    width: 92px;
+    height: 28px;
+    margin-bottom: 15px;
+}
